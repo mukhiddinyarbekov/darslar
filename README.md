@@ -1,1 +1,1 @@
-# darslar
+Bajarilgan darslar
